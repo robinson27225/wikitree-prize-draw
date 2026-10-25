@@ -1,4 +1,4 @@
-# WikiTree Marathon Drawing
+# WikiTree Prize Draw
 
 WikiTree Marathon Drawing is a browser-based live host tool for drawing winners during WikiTree marathons and other events. Hosts can manage the shared ineligible list, spin bibs or balls to pick random winners, and generate ready-to-paste WikiTree prize tables without needing a server or any backend setup.
 
